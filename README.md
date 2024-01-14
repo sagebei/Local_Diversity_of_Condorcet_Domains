@@ -1,6 +1,5 @@
 # Local Diversity of Condorcet Domains
 
----
 This repository contains all the programs used in the paper "Local Diversity of Condorcet Domains". 
 
 Folder structure:
